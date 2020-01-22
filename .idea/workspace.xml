@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3c97bd8-4ce1-4b0f-97c1-f8f3053e9ee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WksAuJl9TqnKGa0eOkrWLJjrIz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WhiskyTrackerApplicationTests.findWhiskeysByYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="findWhiskeysByYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskeysByYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c97bd8-4ce1-4b0f-97c1-f8f3053e9ee1" name="Default Changelist" comment="" />
+      <created>1579704786271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579704786271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1579705716046">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1579705716046" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1579705716046">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1579705716046" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1579705716045">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1579705716045" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1579705716046">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1579705716046" />
+  </component>
+</project>
