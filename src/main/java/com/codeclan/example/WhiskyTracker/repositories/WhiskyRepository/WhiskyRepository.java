@@ -7,7 +7,9 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import java.util.List;
 
 @RepositoryRestResource
-public interface WhiskyRepository extends JpaRepository<Whisky, Long> {
+public interface WhiskyRepository extends JpaRepository<Whisky, Long>, WhiskyRepositoryCustom {
 
-    List<Whisky> findWhiskeysByYear(int year);
+    List<Whisky> findWhiskiesByYear(int year);
+    public List<Whisky> findWhiskiesByDistilleryFilteredByAge(Long distilleryId, int age);
+    List<Whisky> findWhiskiesByDistilleryIdAndAge(Long distilleryId, int age);
 }
